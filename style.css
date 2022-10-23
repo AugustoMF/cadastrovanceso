@@ -1,0 +1,51 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: darkgoldenrod;
+}
+
+form {
+position: absolute;
+margin-top: 13%;
+margin-left: 31%;
+border-width: 3px;
+border-style: solid;
+border-color: black;
+height: 450px;
+width: 450px;
+}
+
+input {
+    border-radius: 6px;
+    position: absolute;
+    height: 20px;
+    width: 210px;
+    margin-top: 5%;
+    margin-left: 45%;
+    background-color: #DFDFDF;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #0000;
+}
+
+label {
+    position: absolute;
+    margin-top: 5%;
+    margin-left: 2%
+    
+}
+
+h1 {
+    position: absolute;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 31%;
+    font-size: 55px;
+}
+
+
+button {
+    height: 33px;
+    width: 73px;
+    border-radius: 6px;
+    background-color: gray;
+    margin-top: 50%;
+}
